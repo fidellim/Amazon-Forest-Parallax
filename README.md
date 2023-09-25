@@ -12,7 +12,7 @@ Experience the magic of parallax scrolling with our immersive and visually stunn
 ### Links
 
 - Solution URL: [Solution](https://github.com/fidellim/Amazon-Forest-Parallax)
-- Live Site URL: [Live Site](https://result-summary-component-fem-fidellim.netlify.app/)
+- Live Site URL: [Live Site](https://amazon-forest-parallax-fidellim.netlify.app)
 
 ## Features
 
